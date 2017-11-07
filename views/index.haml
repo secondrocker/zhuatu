@@ -1,0 +1,27 @@
+%head
+  %title 抓图
+  %script{src:'http://wenku.it168.com/js/jquery-1.7.2.min.js'}
+%body
+  %div{:style => "padding-top: 10px;font-weight: bold;padding-bottom: 10px;color: white;background-color: gray;"}
+    = "总数量:#{pic_count}"
+    &nbsp;&nbsp;
+    = "完成数量:#{done_count}"
+    &nbsp;&nbsp;
+    = "完成比例:#{(done_count.to_f/pic_count*100).round(2)}%"
+    &nbsp;&nbsp;
+    %form{action:'/',method:'get',style:'display: inline-block;'}
+      %input#keywords{name:'keywords',type:'text',value:keywords}
+  %div{:style => "padding-top:20px;padding-left:5px;padding-bottom:20px;"}
+    %table
+      - serials.each do |serial|
+        %tr
+          %td
+            %a{ href:"/pics/#{serial.id}",target: "_blank"}= serial.title
+  = will_paginate serials
+
+:javascript
+  $("#keywords").bind('keydown',function(event){
+    if(event.keyCode == 13){
+      $("#keywords").parent("form").submit();
+    }
+  });

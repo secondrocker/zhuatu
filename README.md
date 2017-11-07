@@ -1,0 +1,1 @@
+#一个典型的ruby on sinatra起始项目配置

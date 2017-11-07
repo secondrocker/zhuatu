@@ -1,0 +1,768 @@
+I, [2017-06-04T15:17:52.891737 #1281]  INFO -- : reaped #<Process::Status: pid 1283 exit 0> worker=1
+I, [2017-06-04T15:17:52.892285 #1281]  INFO -- : reaped #<Process::Status: pid 1282 exit 0> worker=0
+I, [2017-06-04T15:17:52.902023 #1281]  INFO -- : master complete
+I, [2017-06-06T21:40:50.092192 #71952]  INFO -- : Refreshing Gem list
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+I, [2017-06-06T21:40:51.015214 #71952]  INFO -- : unlinking existing socket=/Users/oudong/space/zhuatu/log/rainbows.sock
+I, [2017-06-06T21:40:51.015823 #71952]  INFO -- : listening on addr=/Users/oudong/space/zhuatu/log/rainbows.sock fd=12
+I, [2017-06-06T21:40:51.018222 #71952]  INFO -- : master process ready
+I, [2017-06-06T21:40:51.031389 #71953]  INFO -- : Rainbows! ThreadPool worker_connections=64
+I, [2017-06-06T21:40:51.032306 #71954]  INFO -- : Rainbows! ThreadPool worker_connections=64
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-06-06T23:15:45.112851 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T00:17:57.005072 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T01:18:37.640554 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T08:49:18.147156 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T13:00:10.324835 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T14:01:20.858782 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T18:47:01.445821 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T19:32:36.821568 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T20:35:48.641428 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-07T23:59:06.852617 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T01:01:17.844676 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T12:21:49.248076 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T13:22:59.698898 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T18:39:09.916013 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T19:58:25.374369 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T21:04:49.426397 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T22:39:30.253274 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-08T23:40:11.763901 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-09T13:22:51.065025 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-09T14:24:31.915732 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-09T18:40:43.437084 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-09T20:50:10.988830 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-10T00:21:51.545700 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-10T14:24:37.407974 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-10T15:26:17.876163 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-10T18:42:28.387160 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T03:43:38.752250 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T15:14:49.255605 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T16:16:29.642347 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T18:56:55.769745 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T21:17:07.000057 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-11T23:04:16.944464 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T00:05:28.120110 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T16:16:40.703389 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T17:18:20.953158 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T18:19:31.436525 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T19:20:41.766216 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T21:29:21.244622 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T22:45:33.882661 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-12T23:52:14.353515 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T00:52:54.863127 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T01:53:35.448978 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T02:54:16.050381 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T03:54:56.546977 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T04:56:07.145897 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T05:57:17.563739 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T06:57:58.067958 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T07:58:38.672722 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T08:59:19.277959 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T09:59:59.764921 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T11:00:40.295950 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T12:01:50.717529 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T13:02:31.288618 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T14:03:41.781730 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T15:04:22.301250 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T16:05:02.853547 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T17:05:43.387648 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T18:07:23.874222 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T19:08:04.335634 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T20:08:44.749306 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-13T20:52:36.258292 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T00:08:46.862165 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T01:09:28.356101 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T02:10:38.931347 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T03:11:19.528902 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T04:12:00.148616 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T05:12:40.607742 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T06:13:51.834664 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T07:14:32.281596 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T08:15:12.898276 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T09:15:53.502421 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T10:17:03.955296 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T10:55:17.477402 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T16:16:43.986433 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T17:17:24.633513 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T18:19:05.535755 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T20:27:19.134362 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T22:25:45.059426 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-14T23:57:55.882178 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-15T18:19:13.294728 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-15T20:24:50.234630 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-06-16T04:24:58.149900 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T06:16:27.394411 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T07:17:07.914832 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T18:19:06.112321 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T19:20:46.821493 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T20:28:17.351041 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-16T23:17:58.705619 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-17T00:18:39.343312 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-17T07:07:33.437869 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-17T08:27:42.936928 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-17T12:09:51.582804 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-17T18:53:47.788929 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T00:29:29.524373 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T01:30:40.277306 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T02:31:20.726621 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T04:22:55.282421 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T05:23:35.883968 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T08:33:06.495673 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T09:34:17.192248 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T11:12:33.712356 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-18T23:22:16.454299 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T00:22:57.095053 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T01:24:06.870503 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T03:12:09.370624 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T04:12:49.831067 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T07:12:40.262603 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T08:13:50.140680 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T13:44:29.610994 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T14:45:40.173489 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T16:31:19.615540 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T18:31:59.100061 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-19T20:49:20.550765 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-06-19T23:33:48.874703 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-06-21T08:57:36.913902 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T09:58:49.233217 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T10:59:29.659829 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T12:33:20.144094 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T13:34:00.560899 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T15:42:05.005419 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T16:43:15.474570 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T18:43:55.871908 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T19:37:00.339906 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T20:28:35.804261 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-21T23:34:46.636804 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T00:36:56.932075 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T08:21:38.410207 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T09:22:48.871243 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T16:08:59.010099 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T18:40:09.415080 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-22T19:55:41.799923 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T00:40:22.986736 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T01:58:27.483148 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T02:59:07.871120 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T09:23:08.022073 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T10:24:18.241114 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T16:09:58.618675 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T18:41:09.130444 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T20:08:05.605190 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-23T23:54:26.393991 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T00:55:36.598016 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T08:45:30.034741 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T13:10:20.263083 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T13:43:30.703268 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T14:07:20.287416 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T20:16:01.243190 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T21:16:42.816946 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T21:51:21.341203 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-24T21:57:15.017600 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T01:03:25.846178 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T02:04:06.411530 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T03:05:16.236841 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T04:24:15.717022 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T05:24:56.168828 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T06:25:35.675139 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T08:26:20.195683 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-25T08:58:41.710696 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-06-25T21:52:42.568109 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T00:17:52.967296 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T01:18:33.452892 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T02:19:14.010505 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T03:25:00.405921 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T04:25:40.913091 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T06:16:25.378993 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T07:17:05.932586 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T11:33:16.504310 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T13:36:37.786518 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T14:37:18.246260 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T19:47:46.827509 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-26T23:36:57.821858 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-27T01:42:09.645309 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-27T02:43:20.262330 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-27T11:29:01.002969 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-27T14:15:12.310658 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-27T21:26:36.674961 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T02:43:01.729753 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T03:44:12.420470 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T06:16:25.867255 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T07:17:06.276506 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T11:33:16.730129 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T14:19:26.945019 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-28T21:25:05.390386 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-29T20:10:44.398969 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-29T23:31:54.983770 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T00:32:36.065682 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T01:33:45.569225 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T02:54:06.979863 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T03:55:47.358823 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T06:48:31.724988 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T07:49:41.324386 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T10:20:20.947086 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T14:06:31.011893 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T15:42:47.069017 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T16:43:26.500764 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T17:44:06.967394 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T18:44:46.402462 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T19:45:25.897916 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-06-30T20:11:52.387380 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T03:40:34.073497 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T04:41:14.534234 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T05:41:54.114834 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T06:42:34.200657 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T07:43:13.647665 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T08:43:53.035548 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-01T09:39:02.114301 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-02T22:16:48.422249 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-02T22:30:23.003089 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T00:26:33.458740 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T01:27:45.029827 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T02:28:25.420533 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T03:29:36.448090 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T04:30:16.827417 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T05:30:57.430319 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T06:31:37.995753 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T07:32:18.419447 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T08:32:58.833174 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T09:34:08.653020 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T10:34:49.038000 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T11:35:29.458776 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T12:36:10.006840 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T13:37:20.399468 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T14:38:00.837496 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T15:39:41.230856 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T16:40:21.580148 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T17:41:01.877029 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T18:41:42.246080 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T19:42:22.658737 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T20:43:04.108696 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T21:22:54.430187 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T22:13:15.428774 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-03T23:20:25.541604 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T00:21:36.456780 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T01:22:16.853004 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T02:22:57.248371 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T03:24:08.087275 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T04:24:48.611378 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T05:25:29.185156 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T06:26:39.562299 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T07:27:19.965689 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T08:28:00.408576 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T09:29:10.271174 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T10:29:50.663364 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T11:30:31.060662 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T12:31:11.458479 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T13:31:51.921562 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T14:32:32.350808 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T15:33:42.218280 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T16:34:22.675613 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T17:35:03.114910 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T18:36:13.504400 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T19:36:53.909593 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-04T20:08:21.447986 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T00:07:33.228146 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T01:08:14.694350 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T02:08:55.226687 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T03:10:05.865295 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T04:10:46.253465 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T05:11:26.710184 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T06:12:07.081228 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T07:12:47.398747 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T08:13:27.900054 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T08:14:54.913871 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-05T10:36:59.461921 #71952] DEBUG -- : waiting 16.5s after suspend/hibernation
+I, [2017-07-05T11:45:17.064931 #71952]  INFO -- : reaped #<Process::Status: pid 71953 exit 0> worker=0
+I, [2017-07-05T11:45:17.065455 #71952]  INFO -- : reaped #<Process::Status: pid 71954 exit 0> worker=1
+I, [2017-07-05T11:45:17.090770 #71952]  INFO -- : master complete
+I, [2017-07-12T20:27:58.598693 #6166]  INFO -- : Refreshing Gem list
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+I, [2017-07-12T20:27:59.452471 #6166]  INFO -- : unlinking existing socket=/Users/oudong/space/zhuatu/log/rainbows.sock
+I, [2017-07-12T20:27:59.459497 #6166]  INFO -- : listening on addr=/Users/oudong/space/zhuatu/log/rainbows.sock fd=12
+I, [2017-07-12T20:27:59.461410 #6166]  INFO -- : master process ready
+I, [2017-07-12T20:27:59.472200 #6168]  INFO -- : Rainbows! ThreadPool worker_connections=64
+I, [2017-07-12T20:27:59.472328 #6167]  INFO -- : Rainbows! ThreadPool worker_connections=64
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-07-13T00:55:23.485277 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-13T01:56:05.039945 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-13T02:57:15.485515 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-13T04:55:34.140371 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-13T05:56:14.781944 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-13T07:24:43.337368 #6166] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+I, [2017-07-13T07:39:03.378659 #6166]  INFO -- : reaped #<Process::Status: pid 6168 exit 0> worker=1
+I, [2017-07-13T07:39:03.379543 #6166]  INFO -- : reaped #<Process::Status: pid 6167 exit 0> worker=0
+I, [2017-07-13T07:39:03.379829 #6166]  INFO -- : master complete
+I, [2017-07-31T07:25:56.513189 #10057]  INFO -- : Refreshing Gem list
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+I, [2017-07-31T07:25:57.878225 #10057]  INFO -- : unlinking existing socket=/Users/oudong/space/zhuatu/log/rainbows.sock
+I, [2017-07-31T07:25:57.878997 #10057]  INFO -- : listening on addr=/Users/oudong/space/zhuatu/log/rainbows.sock fd=12
+I, [2017-07-31T07:25:57.881418 #10057]  INFO -- : master process ready
+I, [2017-07-31T07:25:57.894119 #10058]  INFO -- : Rainbows! ThreadPool worker_connections=64
+I, [2017-07-31T07:25:57.893993 #10059]  INFO -- : Rainbows! ThreadPool worker_connections=64
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+D, [2017-07-31T15:23:11.126430 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-07-31T19:48:45.837139 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-03T10:26:41.602850 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-03T20:22:42.809384 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-03T21:47:14.006810 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-05T15:05:33.105301 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-05T15:47:40.940463 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-05T16:22:13.930534 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-08-05T20:20:28.426594 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-06T20:33:59.035599 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-06T20:55:43.803021 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+D, [2017-08-08T10:47:02.137950 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T11:47:42.676350 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T12:48:53.064307 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T14:30:32.516348 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T15:31:12.852376 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T17:38:00.949589 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T18:38:41.279881 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T20:06:44.721544 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-08T20:15:43.376864 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-09T02:11:00.693507 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-09T03:12:11.485628 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-09T09:27:52.293064 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-09T18:03:36.796904 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-09T19:05:46.764491 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-10T07:06:27.231701 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-10T09:22:07.676336 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-10T18:49:08.964020 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-10T19:49:50.001399 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-10T20:06:48.874877 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T09:30:13.927460 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T12:55:09.443305 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T13:56:20.160457 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T19:49:35.715976 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T20:50:46.099086 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-11T21:16:32.605435 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T01:49:53.770921 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T04:55:15.279403 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T07:55:54.723108 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T08:56:35.022526 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T09:03:30.579001 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-08-12T11:58:03.005089 #10057] DEBUG -- : waiting 16.5s after suspend/hibernation
+I, [2017-08-12T18:10:49.143787 #10057]  INFO -- : reaped #<Process::Status: pid 10059 exit 0> worker=1
+I, [2017-08-12T18:10:49.145642 #10057]  INFO -- : reaped #<Process::Status: pid 10058 exit 0> worker=0
+I, [2017-08-12T18:10:49.146122 #10057]  INFO -- : master complete
+I, [2017-09-09T20:02:44.477862 #1146]  INFO -- : Refreshing Gem list
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+I, [2017-09-09T20:02:45.718184 #1146]  INFO -- : unlinking existing socket=/Users/oudong/space/zhuatu/log/rainbows.sock
+I, [2017-09-09T20:02:45.720026 #1146]  INFO -- : listening on addr=/Users/oudong/space/zhuatu/log/rainbows.sock fd=12
+I, [2017-09-09T20:02:45.721894 #1146]  INFO -- : master process ready
+I, [2017-09-09T20:02:45.733361 #1149]  INFO -- : Rainbows! ThreadPool worker_connections=64
+I, [2017-09-09T20:02:45.733403 #1148]  INFO -- : Rainbows! ThreadPool worker_connections=64
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+I, [2017-09-10T11:58:58.466592 #1146]  INFO -- : reaped #<Process::Status: pid 1149 exit 0> worker=1
+I, [2017-09-10T11:58:58.467982 #1146]  INFO -- : reaped #<Process::Status: pid 1148 exit 0> worker=0
+I, [2017-09-10T11:58:58.468257 #1146]  INFO -- : master complete
+I, [2017-10-29T18:13:16.716158 #9967]  INFO -- : Refreshing Gem list
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+DEPRECATION WARNING: Currently, Active Record suppresses errors raised within `after_rollback`/`after_commit` callbacks and only print them to the logs. In the next version, these errors will no longer be suppressed. Instead, the errors will propagate normally just like in other Active Record callbacks.
+
+You can opt into the new behavior and remove this warning by setting:
+
+  config.active_record.raise_in_transactional_callbacks = true
+
+ (called from <top (required)> at /Users/oudong/space/zhuatu/boot.rb:9)
+I, [2017-10-29T18:13:17.770498 #9967]  INFO -- : unlinking existing socket=/Users/oudong/space/zhuatu/log/rainbows.sock
+I, [2017-10-29T18:13:17.770877 #9967]  INFO -- : listening on addr=/Users/oudong/space/zhuatu/log/rainbows.sock fd=12
+I, [2017-10-29T18:13:17.774297 #9967]  INFO -- : master process ready
+I, [2017-10-29T18:13:17.788290 #9968]  INFO -- : Rainbows! ThreadPool worker_connections=64
+I, [2017-10-29T18:13:17.788458 #9969]  INFO -- : Rainbows! ThreadPool worker_connections=64
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:27: warning: constant ::Fixnum is deprecated
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/will_paginate-3.1.5/lib/will_paginate/view_helpers/link_renderer.rb:91: warning: constant ::Fixnum is deprecated
+Haml::TempleEngine: Option :outvar is invalid
+/Users/oudong/.rvm/gems/ruby-2.4.1/gems/tilt-2.0.7/lib/tilt/haml.rb:50:in `block in precompiled_postamble': Haml::Engine#precompiled_method_return_value at /Users/oudong/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/forwardable.rb:157 forwarding to private method Haml::TempleEngine#precompiled_method_return_value
+D, [2017-10-30T22:47:42.493975 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-30T23:17:08.683452 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T00:24:18.708293 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T01:25:00.177947 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T02:26:10.459507 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T03:56:11.796479 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T04:57:22.184044 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-10-31T20:06:02.729986 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-11-01T07:46:33.092877 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+D, [2017-11-01T20:26:19.444644 #9967] DEBUG -- : waiting 16.5s after suspend/hibernation
+I, [2017-11-01T21:49:01.743511 #9967]  INFO -- : reaped #<Process::Status: pid 9969 exit 0> worker=1
+I, [2017-11-01T21:49:01.744767 #9967]  INFO -- : reaped #<Process::Status: pid 9968 exit 0> worker=0
+I, [2017-11-01T21:49:01.750777 #9967]  INFO -- : master complete

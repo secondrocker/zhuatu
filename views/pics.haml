@@ -1,0 +1,26 @@
+%head
+  %title= serial.title
+  :css
+    ul li{
+      list-style-type:none;
+    }
+%body
+  %div{style:"text-align:center;"}
+    %h3= serial.title
+    %p{style:"text-align:left;padding-left:5px;"}= "标签：#{serial.pic_tags.map(&:name).join('&nbsp;')}"
+    %p{style:"text-align:left;padding-left:5px;"}= "模特：#{serial.mm_name}"
+    %p{style:"text-align:left;padding-left:5px;"}= "数量：#{serial.pictures.size}"
+    %p{style:"text-align:left;padding-left:5px;"}
+      原始地址：
+      %a{href:serial.url,target:"_blank"}= serial.url
+    %p{style:"text-align:left;padding-left:5px"}
+      完成度：
+      = (serial.pictures.to_a.count{|x|x.status}.to_f/serial.pictures.count*100).round(2)
+      \%
+    %ul
+      - serial.pictures.each do |pic|
+        %li
+          - if pic.status
+            %img{src:"/#{serial.title}/#{pic.name}",:style => "width:800px;"}
+          - else
+            %img{src:"#{pic.url}",:style => "width:800px;"}
